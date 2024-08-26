@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olivia Lim</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate Frontend developer</h3>
 
 - 🔭 I’m currently working on [TripleTen Projects](https://github.com/Olivialrj/se_project_spots)
 
