@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Olivia Lim</h1>
 <h3 align="center">A passionate Frontend developer</h3>
 
-- 🔭 I’m currently working on [TripleTen Projects](https://github.com/Olivialrj/se_project_spots)
+- 🔭 I’m currently working on [TripleTen Projects](https://github.com/Olivialrj/se_project_Final_project)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Phython**
 
-- 💬 Ask me about **HTML, CSS, and Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, and Typescript**
 
 - 📫 How to reach me **olivialrj@hotmail.com**
 
