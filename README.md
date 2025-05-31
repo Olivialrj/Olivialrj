@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Personal Proj](https://github.com/Olivialrj/Final_Project)
 
-- 🌱 I’m currently learning **Phython**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **React, Javascript, Typescript**
 
